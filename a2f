@@ -1,0 +1,25 @@
+L'A2F : à quoi ça sert ?
+
+"L'Authetification à 2 Facteurs" (2 Factors Authetification en anglais) vous permet de sécuriser votre compte.
+Sans ses fameux codes d'authetification, votre compte pourrait facilement de faire prendre par des personnes malveillantes.
+
+
+Comment le mettre en place sur votre compte ?
+
+- Cliquer sur le bouton des paramètres de votre utilisateur, il est sous forme d'un engrenage en bas à gauche de votre écran sur ordinateur et en-dessous de la liste des serveurs sur téléphone.
+- Aller dans la catégorie "Mon Compte" (normalement vous y êtes dès que vous cliquer sur "Paramètres utilisateur", qui est l'étape précédente).
+- Appuyer sur le bouton "Activer l'Authentification à Deux facteurs".
+- Aller sur votre application d'authentification sur téléphone (exemple : Google Authentificator ou Authy) puis scanner le QR code ou réécrivez la clef manuel qui s'est affiché quand vous avez appuyer sur le bouton précédent.
+- Entrer le code à 6 chiffres de votre application d'authentification.
+
+Utile : Vous pouvez aussi rajouter votre numéro de téléphone pour que Discord puisse vous envoyer le code par SMS. C'est souvent plus simple.
+Conseil : Télécharger les codes de backup au cas où vous cassiez votre téléphone et que le SMS soit illisible ou que l'app d'authetification ne puisse plus s'ouvrir.
+
+
+Comment rendre obligatoire l'A2F pour les actions de modération et de développement de serveur Discord ?
+
+- La personnes étant propriétaire du serveur du serveur doit aller dans les paramètres de cson serveur.
+- Aller dans l'onglet "Modération" puis descendre la page affichée.
+- Cliquer sur "éxiger l'A2F" puis rentrer le code à 6 chiffres de son application ou de ses SMS.
+
+Conseil : Installer avant l'A2F sur votre compte, sinon vous ne pourrez pas activer l'obligation.
